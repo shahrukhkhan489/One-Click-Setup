@@ -1,0 +1,1 @@
+# bugzilla-oneclick-install
